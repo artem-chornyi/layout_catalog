@@ -33,11 +33,10 @@
       text-decoration: none;
       color: #000;
       line-height: 60px;
-      transition: 400ms linear;
+      transition: color 400ms linear;
     }
 
     .nav__link:hover {
-      font-weight: 500;
       color: $color-standart-pg;
     }
 
